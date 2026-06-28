@@ -8,7 +8,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "run:cypress": "npx cypress run --spec cypress/e2e/1-getting-started/folders.cy.js"
+    "run:cypress": "npx cypress run --spec cypress/e2e/folders.cy.js"
   },
   "devDependencies": {
     "cypress": "^15.17.0"
